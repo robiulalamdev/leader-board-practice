@@ -1,0 +1,144 @@
+.bg-color{
+    background-color: #b8b1dd;
+}
+.logo img{
+    width: 40px;
+}
+.ms-30{
+    margin-left: auto;
+}
+.idea a{
+    color: white;
+}
+.idea a:hover{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color: red;
+}
+.nav-item{
+    padding: 0% 15px;
+    display: flex;
+    align-items: center;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+    overflow: hidden;
+}
+.main{
+    margin-top: 50px;
+    max-width: 870px;
+}
+.top-player{
+    padding: 20px 20px;
+
+}
+.container{
+    background-color: white;
+}
+.border-box{
+    border-radius: 5px;
+    border: 1px solid #000000;
+    box-shadow: 0px 1px 4px;
+}
+.container h3{
+    color: #562EFF;
+}
+.hover:hover{
+    color: #562EFF;
+}
+.player img:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+.line{
+    background-color: rgba(128, 128, 128, 0.637);
+    width: 807px;
+    height: 2px;
+    margin-top: 20px;
+}
+.col-md-6 img{
+    width: 224px;
+    height: 127px;
+}
+.top-blogs{
+    padding: 20px 20px;
+}
+.link-list{
+    text-decoration: none;
+    color: #562EFF;
+}
+
+.letest-course{
+    background-color: white;
+    width: 870px;
+    padding: 15px;
+
+}
+.last{
+    margin-top: 25px;
+    max-width: 870px;
+}
+.letest-course{
+    border-radius: 5px;
+}
+.icon .star{
+    width: 15px;
+    height: 11.81px;
+}
+.col-md-4 .first-img{
+    width: 224px;
+    height: 104px;
+}
+.row .last-s{
+    width: 252px;
+    height: 250px;
+    box-shadow: 0px 0.50px 1px gray;
+    border-radius: 10px;
+    margin: 15px;
+    position: relative;
+}
+.letest-course h3{
+    color: #562EFF;
+}
+.last-s p{
+    padding-top: 15px;
+}
+.letest-course span{
+    color: #ED6B4F;
+    font-size: 15px;
+}
+.hr img{
+    width: 25px;
+    height: 25px;
+}
+.hr p{
+    color: #ED6B4F;
+}
+.hr{
+    height: 30px;
+    width: 105px;
+    background-color: #ed6c4f46;
+    border-radius: 25px;
+}
+.hr img, p{
+    margin-left: 5px;
+}
+.icon{
+    position: relative;
+    bottom: 20px;
+}
+footer small{
+    color: gray;
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+}
